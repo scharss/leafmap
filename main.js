@@ -27,7 +27,7 @@ function getLocation() {
       
   
   
-      var url = "http://api.openweathermap.org/data/2.5/weather?lat=" + lat + "&lon=" +long+ "&appid=0bda5bdbd55843f5716ea9febd9f26a7" ;
+      var url = "https://api.openweathermap.org/data/2.5/weather?lat=" + lat + "&lon=" +long+ "&appid=0bda5bdbd55843f5716ea9febd9f26a7" ;
   
   
             //***************************fetch*******************
